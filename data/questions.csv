@@ -1,0 +1,265 @@
+﻿question,intent
+Tôi muốn mở tài khoản ngân hàng,open_account
+Làm thế nào để có tài khoản mới?,open_account
+Đăng ký tài khoản lần đầu như thế nào,open_account
+Tôi chưa có tài khoản ngân hàng,open_account
+Tôi cần chuẩn bị gì để mở tài khoản,open_account
+Có thể mở tài khoản online không,open_account
+Tạo tài khoản ngân hàng bằng điện thoại,open_account
+Hướng dẫn đăng ký tài khoản cá nhân,open_account
+Tôi muốn mở tài khoản thanh toán,open_account
+Mở tài khoản có cần đến quầy không,open_account
+Giấy tờ nào cần khi đăng ký tài khoản,open_account
+Tôi muốn làm tài khoản để nhận lương,open_account
+Thủ tục mở tài khoản ngân hàng,open_account
+Có được mở tài khoản trực tuyến tại nhà không,open_account
+Cách làm tài khoản lần đầu cho người mới,open_account
+Tôi cần mở số tài khoản mới,open_account
+Tôi muốn tạo tài khoản nhận chuyển khoản,open_account
+Người mới cần làm gì để đăng ký tài khoản,open_account
+Mở tài khoản có yêu cầu định danh không,open_account
+Có thể đăng ký số tài khoản trên app chứ,open_account
+Đăng ký tài khoản bằng căn cước được không,open_account
+Muốn tạo tài khoản để thanh toán hóa đơn,open_account
+Tôi muốn làm thẻ ATM,debit_card
+Làm sao đăng ký thẻ ghi nợ,debit_card
+Cần phát hành thẻ vật lý mới,debit_card
+Cách lấy thẻ ATM lần đầu,debit_card
+Thủ tục đăng ký thẻ thanh toán,debit_card
+Mở thẻ ngân hàng cần gì,debit_card
+Tôi muốn có thẻ để quẹt POS,debit_card
+Hướng dẫn nhận thẻ sau khi đăng ký,debit_card
+Cách kích hoạt thẻ ATM mới,debit_card
+Thẻ ghi nợ khác tài khoản như thế nào,debit_card
+Tôi cần thẻ vật lý để rút tiền,debit_card
+Mở thẻ ghi nợ có thu phí không,debit_card
+Làm cách nào nhận thẻ tại nhà,debit_card
+Đăng ký thẻ nhựa qua ứng dụng,debit_card
+Tôi chưa biết kích hoạt thẻ mới,debit_card
+Xin cấp thẻ ngân hàng lần đầu,debit_card
+Tôi muốn đặt làm thẻ thanh toán,debit_card
+Thẻ ATM mới nhận sử dụng ra sao,debit_card
+Đăng ký thẻ phi vật lý được không,debit_card
+Muốn làm thêm một thẻ ghi nợ,debit_card
+Tôi muốn biết thủ tục phát hành thẻ,debit_card
+Bao lâu nhận được thẻ ngân hàng,debit_card
+Tôi bị mất thẻ ATM,lost_card
+Đánh rơi thẻ ngân hàng phải làm sao,lost_card
+Làm rớt thẻ thì xử lý thế nào,lost_card
+Thẻ của tôi bị thất lạc,lost_card
+Tôi cần khóa thẻ bị mất,lost_card
+Người khác nhặt được thẻ của tôi,lost_card
+Tôi không tìm thấy thẻ ATM,lost_card
+Lỡ làm mất thẻ ngân hàng,lost_card
+Thẻ bị đánh cắp tôi phải làm gì,lost_card
+Khóa khẩn cấp vì bị mất thẻ,lost_card
+Mất thẻ có xin cấp lại được không,lost_card
+Tôi vừa rơi mất thẻ ngoài đường,lost_card
+Bị trộm ví có thẻ ATM,lost_card
+Làm thế nào bảo vệ tiền khi mất thẻ,lost_card
+Tôi làm thất lạc thẻ thanh toán,lost_card
+Tôi cần báo mất thẻ,lost_card
+Thẻ ATM biến mất rồi,lost_card
+Có cách nào xử lý khi bị trộm thẻ,lost_card
+Tôi quên thẻ ở nơi công cộng,lost_card
+Không thấy thẻ ghi nợ của mình,lost_card
+Cần làm gì ngay sau khi bị mất thẻ,lost_card
+Mất thẻ thì mở lại thẻ mới thế nào,lost_card
+Tôi quên mật khẩu ứng dụng ngân hàng,forgot_password
+Không nhớ mật khẩu đăng nhập,forgot_password
+Cách lấy lại mật khẩu ngân hàng số,forgot_password
+Tôi bị quên password app,forgot_password
+Tôi không đăng nhập do sai mật khẩu,forgot_password
+Đặt lại mật khẩu ứng dụng thế nào,forgot_password
+Khôi phục thông tin đăng nhập,forgot_password
+Mật khẩu bị khóa sau nhiều lần nhập sai,forgot_password
+Tôi cần đổi mật khẩu vì quên,forgot_password
+Làm sao đăng nhập khi không nhớ password,forgot_password
+Hướng dẫn reset mật khẩu,forgot_password
+Quên mã đăng nhập tài khoản online,forgot_password
+Không nhớ mật khẩu để chuyển khoản,forgot_password
+Tôi cần khôi phục quyền truy cập ứng dụng,forgot_password
+Nhập sai mật khẩu quá nhiều lần,forgot_password
+Quên mật khẩu internet banking,forgot_password
+Lấy lại mật khẩu qua điện thoại được không,forgot_password
+Đăng nhập báo password không đúng,forgot_password
+App yêu cầu mật khẩu tôi đã quên,forgot_password
+Tôi quên thông tin đăng nhập ngân hàng số,forgot_password
+Cách tạo mật khẩu mới khi quên mật khẩu cũ,forgot_password
+Mật khẩu ứng dụng bị quên xử lý sao,forgot_password
+Tôi chuyển tiền nhưng bên kia chưa nhận,transfer_issue
+Đã chuyển khoản mà chưa thấy tiền,transfer_issue
+Giao dịch chuyển tiền bị lỗi,transfer_issue
+Tài khoản bị trừ tiền nhưng người nhận chưa có,transfer_issue
+Chuyển khoản báo thất bại,transfer_issue
+Tôi gửi tiền nhưng ứng dụng đứng,transfer_issue
+Giao dịch chuyển bị treo,transfer_issue
+Tôi chuyển nhầm số tài khoản,transfer_issue
+Chuyển tiền rồi có thể tra soát không,transfer_issue
+Lỗi lúc xác nhận chuyển khoản,transfer_issue
+Đã chuyển nhưng chưa có thông báo thành công,transfer_issue
+Tiền đã trừ mà chuyển chưa tới,transfer_issue
+Chuyển khoản không thành công phải làm gì,transfer_issue
+Ứng dụng báo giao dịch chờ xử lý,transfer_issue
+Chuyển tiền chậm đến tài khoản đích,transfer_issue
+Tôi cần kiểm tra giao dịch chuyển tiền lỗi,transfer_issue
+Gửi khoản tiền đi nhưng người nhận báo chưa được,transfer_issue
+Có thể kiểm tra tình trạng giao dịch bị treo không,transfer_issue
+Tôi nghi chuyển khoản bị lỗi hệ thống,transfer_issue
+Tại sao chuyển khoản chưa cập nhật,transfer_issue
+Tiền chuyển đi chưa được ghi có,transfer_issue
+Chuyển khoản gián đoạn giữa chừng,transfer_issue
+Hạn mức chuyển khoản là bao nhiêu,transfer_limit
+Một ngày tôi chuyển được tối đa bao nhiêu,transfer_limit
+Muốn tăng hạn mức chuyển tiền,transfer_limit
+Cách đổi giới hạn giao dịch,transfer_limit
+Giới hạn chuyển khoản mỗi lần,transfer_limit
+Nâng hạn mức chuyển tiền online,transfer_limit
+Hạn mức thanh toán trong ngày,transfer_limit
+Có thể chỉnh số tiền tối đa mỗi giao dịch không,transfer_limit
+Tôi cần biết trần chuyển tiền,transfer_limit
+Tài khoản của tôi bị giới hạn số tiền gửi,transfer_limit
+Tại sao không chuyển được số tiền lớn,transfer_limit
+Làm sao thay đổi hạn mức trong app,transfer_limit
+Chuyển tiền quá hạn mức thì sao,transfer_limit
+Tôi muốn xem mức giới hạn hiện hành,transfer_limit
+Hạn mức theo phương thức xác thực là gì,transfer_limit
+Tôi được phép chuyển bao nhiêu trong ngày,transfer_limit
+Hướng dẫn chỉnh hạn mức giao dịch,transfer_limit
+Tăng giới hạn chuyển khoản bằng cách nào,transfer_limit
+Giới hạn chuyển tiền ra ngân hàng khác,transfer_limit
+Làm sao nâng trần chuyển khoản,transfer_limit
+Có mức tối đa cho một lệnh chuyển tiền không,transfer_limit
+Hạn mức chuyển tiền hiện tại ở đâu,transfer_limit
+Tôi muốn rút tiền ở cây ATM,atm_withdrawal
+Làm sao rút tiền không cần thẻ,atm_withdrawal
+ATM nuốt thẻ thì làm gì,atm_withdrawal
+Máy ATM không trả tiền,atm_withdrawal
+Cách rút tiền bằng thẻ ghi nợ,atm_withdrawal
+Rút tiền mặt tại ATM như thế nào,atm_withdrawal
+Tôi rút tiền nhưng máy báo lỗi,atm_withdrawal
+Cây ATM giữ thẻ của tôi,atm_withdrawal
+Hướng dẫn lấy tiền qua mã QR ở ATM,atm_withdrawal
+Rút tiền bằng điện thoại có được không,atm_withdrawal
+Tôi muốn biết hạn mức rút tiền mặt,atm_withdrawal
+ATM không nhả tiền đã trừ tài khoản,atm_withdrawal
+Có thể dùng thẻ rút tiền ở máy khác ngân hàng không,atm_withdrawal
+Tôi cần hướng dẫn thao tác tại ATM,atm_withdrawal
+Giao dịch rút tiền bị gián đoạn,atm_withdrawal
+Phí khi rút tiền ở máy ATM,atm_withdrawal
+Thẻ bị ATM giữ lại phải liên hệ ai,atm_withdrawal
+Tôi rút tiền không thành công tại cây,atm_withdrawal
+Rút tiền tại quầy hay ATM tiện hơn,atm_withdrawal
+Máy ATM báo hết tiền khi tôi rút,atm_withdrawal
+Rút tiền tại cây nhưng không nhận được tiền,atm_withdrawal
+Làm sao rút tiền bằng mã trên ứng dụng,atm_withdrawal
+Phí duy trì tài khoản bao nhiêu,banking_fees
+Tôi muốn xem biểu phí ngân hàng,banking_fees
+Chuyển khoản có mất phí không,banking_fees
+Có phí quản lý thẻ không,banking_fees
+Phí dịch vụ ngân hàng số,banking_fees
+Phí thường niên của thẻ là gì,banking_fees
+Mất bao nhiêu tiền phí khi chuyển liên ngân hàng,banking_fees
+Tại sao tài khoản bị thu phí,banking_fees
+Xem danh sách phí hiện hành ở đâu,banking_fees
+Phí phát hành thẻ mới,banking_fees
+Phí SMS Banking là bao nhiêu,banking_fees
+Ngân hàng có miễn phí chuyển khoản không,banking_fees
+Có phí khi hủy thẻ không,banking_fees
+Phí thông báo biến động số dư,banking_fees
+Tôi muốn biết chi phí sử dụng tài khoản,banking_fees
+Biểu phí sử dụng thẻ ghi nợ,banking_fees
+Phí duy trì dịch vụ hằng tháng,banking_fees
+Có loại phí nào khi mở tài khoản không,banking_fees
+Tôi bị trừ phí dịch vụ hằng tháng,banking_fees
+Cách xem thông tin các loại phí,banking_fees
+Ngân hàng thu phí giao dịch như thế nào,banking_fees
+Phí cấp lại thẻ có không,banking_fees
+Tôi muốn gửi tiết kiệm ngân hàng,savings_info
+Thủ tục mở sổ tiết kiệm,savings_info
+Lãi suất tiết kiệm hiện nay xem ở đâu,savings_info
+Tôi muốn gửi tiền kỳ hạn sáu tháng,savings_info
+Có thể gửi tiết kiệm online không,savings_info
+Rút tiết kiệm trước hạn thì sao,savings_info
+Gửi tiết kiệm tối thiểu bao nhiêu,savings_info
+Các kỳ hạn tiền gửi tiết kiệm,savings_info
+Tôi muốn biết cách nhận lãi tiết kiệm,savings_info
+Cần giấy tờ gì để mở sổ tiết kiệm,savings_info
+Gửi tiết kiệm trên ứng dụng,savings_info
+Tiền gửi có tự động tái tục không,savings_info
+Hướng dẫn tất toán sổ tiết kiệm,savings_info
+Tôi định gửi một khoản tiền có kỳ hạn,savings_info
+Tiết kiệm không kỳ hạn là gì,savings_info
+Có thể chọn nhận lãi cuối kỳ không,savings_info
+Tìm hiểu sản phẩm tiết kiệm tích lũy,savings_info
+Gửi tiết kiệm trực tuyến khác tại quầy không,savings_info
+Muốn rút một phần tiền gửi tiết kiệm,savings_info
+Làm sao tra cứu kỳ hạn sổ tiết kiệm,savings_info
+Tôi quan tâm lãi suất tiền gửi,savings_info
+Thủ tục gia hạn khoản tiết kiệm,savings_info
+Tôi muốn tìm hiểu vay vốn ngân hàng,loan_info
+Điều kiện vay tiêu dùng là gì,loan_info
+Hồ sơ đăng ký khoản vay cần gì,loan_info
+Lãi suất cho vay được tính thế nào,loan_info
+Tôi cần biết thủ tục vay ngân hàng,loan_info
+Vay mua xe cần chuẩn bị gì,loan_info
+Có thể nộp hồ sơ vay trực tuyến không,loan_info
+Thời hạn trả nợ khoản vay,loan_info
+Tôi muốn hỏi về vay tín chấp,loan_info
+Vay thế chấp cần giấy tờ gì,loan_info
+Trả nợ trước hạn có mất phí không,loan_info
+Làm sao tính số tiền trả góp,loan_info
+Tôi muốn tìm hiểu hạn mức vay,loan_info
+Điều kiện xét duyệt khoản vay,loan_info
+Có thể tất toán khoản vay sớm không,loan_info
+Thủ tục đăng ký vay mua nhà,loan_info
+Tôi muốn biết lịch thanh toán nợ,loan_info
+Lãi suất vay cố định và thả nổi khác gì,loan_info
+Khoản vay được giải ngân khi nào,loan_info
+Cần chứng minh thu nhập để vay không,loan_info
+Tôi muốn được tư vấn sản phẩm vay,loan_info
+Vay tiêu dùng trả góp ra sao,loan_info
+Tôi muốn đăng ký mobile banking,mobile_banking
+Cách sử dụng ứng dụng ngân hàng,mobile_banking
+Tải app ngân hàng ở đâu,mobile_banking
+Làm sao kích hoạt ngân hàng số,mobile_banking
+Tôi muốn dùng internet banking,mobile_banking
+Đăng ký dịch vụ trên điện thoại,mobile_banking
+Ứng dụng ngân hàng có những chức năng gì,mobile_banking
+Tôi chưa biết cài app ngân hàng,mobile_banking
+Cách bắt đầu sử dụng dịch vụ trực tuyến,mobile_banking
+Bật thông báo biến động số dư trên app,mobile_banking
+Cách xem lịch sử giao dịch trên ứng dụng,mobile_banking
+Có thể kiểm tra số dư bằng điện thoại không,mobile_banking
+Đăng ký e-banking như thế nào,mobile_banking
+Tôi muốn cài đặt sinh trắc học đăng nhập,mobile_banking
+Ứng dụng ngân hàng hỗ trợ thanh toán hóa đơn không,mobile_banking
+Tôi muốn dùng tài khoản trên app,mobile_banking
+Cách đăng nhập ngân hàng bằng điện thoại,mobile_banking
+Đổi điện thoại có cần kích hoạt ứng dụng lại không,mobile_banking
+Tôi muốn bật xác thực trên ứng dụng,mobile_banking
+Hướng dẫn dùng ngân hàng trực tuyến,mobile_banking
+Dịch vụ banking trên smartphone,mobile_banking
+Tôi cần đăng ký ứng dụng để chuyển tiền,mobile_banking
+Có người lạ xin mã OTP của tôi,fraud_warning
+Tôi nghi bị lừa đảo ngân hàng,fraud_warning
+Nhận tin nhắn giả mạo ngân hàng,fraud_warning
+Tôi đã lỡ cung cấp OTP cho người khác,fraud_warning
+Có cuộc gọi yêu cầu đọc mã xác thực,fraud_warning
+Bị dụ bấm đường link ngân hàng lạ,fraud_warning
+Làm sao nhận biết tin nhắn lừa đảo,fraud_warning
+Tôi nghi tài khoản bị chiếm đoạt,fraud_warning
+Có người tự xưng nhân viên ngân hàng xin mật khẩu,fraud_warning
+Đã nhập thông tin trên trang web giả,fraud_warning
+Tôi muốn cảnh báo giao dịch đáng ngờ,fraud_warning
+Lộ mã PIN thẻ phải làm gì,fraud_warning
+Nghi bị hack tài khoản ngân hàng,fraud_warning
+Tôi nhận được đường dẫn yêu cầu xác minh tài khoản,fraud_warning
+Người lạ yêu cầu chuyển tiền để mở khóa tài khoản,fraud_warning
+Bị mạo danh tổng đài ngân hàng,fraud_warning
+Làm sao bảo vệ thông tin ngân hàng,fraud_warning
+Tôi sợ bị đánh cắp thông tin đăng nhập,fraud_warning
+Tin nhắn báo trúng thưởng yêu cầu OTP,fraud_warning
+Tôi vừa bị lừa chuyển tiền,fraud_warning
+Lộ mật khẩu banking có nguy hiểm không,fraud_warning
+Có phải ngân hàng yêu cầu gửi OTP qua chat không,fraud_warning

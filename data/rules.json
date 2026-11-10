@@ -1,0 +1,78 @@
+[
+  {
+    "intent": "fraud_warning",
+    "keywords": [
+      "lộ otp",
+      "lộ mã otp",
+      "cung cấp otp",
+      "xin mã otp"
+    ],
+    "exclude": [
+      "không bị lừa đảo"
+    ]
+  },
+  {
+    "intent": "lost_card",
+    "keywords": [
+      "mất thẻ",
+      "rơi thẻ",
+      "đánh rơi thẻ",
+      "thất lạc thẻ",
+      "làm rớt thẻ"
+    ],
+    "exclude": [
+      "không mất thẻ",
+      "không bị mất thẻ",
+      "chưa mất thẻ"
+    ]
+  },
+  {
+    "intent": "transfer_issue",
+    "keywords": [
+      "chuyển khoản lỗi",
+      "chuyển tiền bị lỗi",
+      "chuyển nhưng chưa nhận",
+      "chuyển khoản mà chưa"
+    ],
+    "exclude": []
+  },
+  {
+    "intent": "forgot_password",
+    "keywords": [
+      "quên mật khẩu",
+      "không nhớ mật khẩu",
+      "reset mật khẩu",
+      "khôi phục mật khẩu"
+    ],
+    "exclude": [
+      "không quên mật khẩu"
+    ]
+  },
+  {
+    "intent": "atm_withdrawal",
+    "keywords": [
+      "atm nuốt thẻ",
+      "atm giữ thẻ",
+      "atm không trả tiền"
+    ],
+    "exclude": []
+  },
+  {
+    "intent": "transfer_limit",
+    "keywords": [
+      "hạn mức chuyển",
+      "giới hạn chuyển",
+      "tăng hạn mức"
+    ],
+    "exclude": []
+  },
+  {
+    "intent": "banking_fees",
+    "keywords": [
+      "phí duy trì",
+      "biểu phí",
+      "phí thường niên"
+    ],
+    "exclude": []
+  }
+]

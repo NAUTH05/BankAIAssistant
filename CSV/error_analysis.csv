@@ -1,0 +1,16 @@
+﻿question,intent,predicted
+tôi muốn cảnh báo giao dịch đáng ngờ,fraud_warning,transfer_issue
+tôi sợ bị đánh cắp thông tin đăng nhập,fraud_warning,forgot_password
+thẻ bị atm giữ lại phải liên hệ ai,atm_withdrawal,lost_card
+có thể đăng ký số tài khoản trên app chứ,open_account,mobile_banking
+làm sao rút tiền bằng mã trên ứng dụng,atm_withdrawal,mobile_banking
+tôi cần khôi phục quyền truy cập ứng dụng,forgot_password,mobile_banking
+thẻ ghi nợ khác tài khoản như thế nào,debit_card,open_account
+tôi làm thất lạc thẻ thanh toán,lost_card,debit_card
+tại sao không chuyển được số tiền lớn,transfer_limit,transfer_issue
+đánh rơi thẻ ngân hàng phải làm sao,lost_card,debit_card
+tôi nghi tài khoản bị chiếm đoạt,fraud_warning,open_account
+làm sao rút tiền không cần thẻ,atm_withdrawal,debit_card
+phí phát hành thẻ mới,banking_fees,debit_card
+giao dịch rút tiền bị gián đoạn,atm_withdrawal,transfer_issue
+ứng dụng báo giao dịch chờ xử lý,transfer_issue,mobile_banking
